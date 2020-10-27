@@ -1,0 +1,9 @@
+    <phpup
+      :phpuphMsg="phpuphMsg"
+      :phpuphShow="phpuphShow"
+      :phpupTitle="phpupTitle"
+      :phpuphClose="phpuphClose"
+      :phpuphConfirm="phpuphConfirm"
+      @closeBtn="closeBtn"
+      @confirmBtn="confirmBtn"
+    ></phpup>
